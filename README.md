@@ -1,6 +1,7 @@
 # Price-Plan
 
 A responsive pricing panel using CSS Flexbox.
+This project was developed for Synapse 1.0 organised by AOT SC ECE.
 
 ## Table of contents
 
@@ -37,9 +38,8 @@ A responsive pricing panel using CSS Flexbox.
 
 #### Links
 
-- My branch URL:
 - Synapse 1.0 : Web Project URL: https://github.com/SC-ECE/WEB-PROJECT
-- Live Site URL:
+- Live Site URL: https://embertseal.github.io/Pricing_Plan
 
 ## My Process
 
